@@ -1,0 +1,21 @@
+.black {
+	position: absolute;
+	background-color: black;
+}
+
+
+.red {
+	position: absolute;
+	background-color: red;
+}
+
+.blue {
+	position: absolute;
+	background-color: blue;
+}
+
+.yellow {
+	position: absolute;
+	background-color: yellow;
+}
+
